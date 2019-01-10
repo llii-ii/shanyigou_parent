@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic_parent/Basic_parent.iml" filepath="$PROJECT_DIR$/Basic_parent/Basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_parent/Basic_util/Basic_util.iml" filepath="$PROJECT_DIR$/Basic_parent/Basic_util/Basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka_server_7001/Eureka_server_7001.iml" filepath="$PROJECT_DIR$/Eureka_server_7001/Eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plat_parent/Plat_interface/Plat_interface.iml" filepath="$PROJECT_DIR$/Plat_parent/Plat_interface/Plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plat_parent/Plat_parent.iml" filepath="$PROJECT_DIR$/Plat_parent/Plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plat_parent/Plat_service_8001/Plat_service_8001.iml" filepath="$PROJECT_DIR$/Plat_parent/Plat_service_8001/Plat_service_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul_gateway_9527/Zuul_gateway_9527.iml" filepath="$PROJECT_DIR$/Zuul_gateway_9527/Zuul_gateway_9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanyigou_parent.iml" filepath="$PROJECT_DIR$/shanyigou_parent.iml" />
+    </modules>
+  </component>
+</project>
