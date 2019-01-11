@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basic_parent/Basic_parent.iml" filepath="$PROJECT_DIR$/Basic_parent/Basic_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_parent/Basic_util/Basic_util.iml" filepath="$PROJECT_DIR$/Basic_parent/Basic_util/Basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config_server_8848/Config_server_8848.iml" filepath="$PROJECT_DIR$/Config_server_8848/Config_server_8848.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eureka_server_7001/Eureka_server_7001.iml" filepath="$PROJECT_DIR$/Eureka_server_7001/Eureka_server_7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plat_parent/Plat_interface/Plat_interface.iml" filepath="$PROJECT_DIR$/Plat_parent/Plat_interface/Plat_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plat_parent/Plat_parent.iml" filepath="$PROJECT_DIR$/Plat_parent/Plat_parent.iml" />

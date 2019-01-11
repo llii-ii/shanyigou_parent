@@ -13,6 +13,7 @@
         <module>Plat_parent</module>
         <module>Zuul_gateway_9527</module>
         <module>Basic_parent</module>
+        <module>Config_server_8848</module>
     </modules>
 
     <properties>
